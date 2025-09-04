@@ -5,11 +5,11 @@
 This project focuses on detecting automated accounts (bots) on social media by combining machine learning with graph-based community detection. The goal is to explore how user behavior and network structure can help distinguish bots from genuine human users.
 
 🔎 Features
-Built a user-user mention network using NetworkX.
-Extracted graph metrics: in-degree, out-degree, PageRank, betweenness centrality, clustering coefficient.
-Applied Greedy community detection to identify clusters of users.
-Combined behavioral features (followers, tweet frequency, etc.) with graph features.
-Trained and evaluated models: Logistic Regression and XGBoost.
+Built a user-user mention network using NetworkX.  
+Extracted graph metrics: in-degree, out-degree, PageRank, betweenness centrality, clustering coefficient.  
+Applied Greedy community detection to identify clusters of users.  
+Combined behavioral features (followers, tweet frequency, etc.) with graph features.  
+Trained and evaluated models: Logistic Regression and XGBoost.  
 
 📊 Results
 
